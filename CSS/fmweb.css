@@ -1,0 +1,67 @@
+.bodyR {
+    height:100%;
+    background-color: rgb(159, 201, 255);
+    font-family: Arial, Helvetica, sans-serif; 
+    
+    
+}
+.contact_form {
+    width: 460px;
+    height: auto;
+    margin: 80px auto;
+    border-radius: 18px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: rgb(159, 201, 255)rgb(159, 201, 255);
+    border: inset black;
+    transform: scale(.993, .94);
+    transition: transform .5s, opacity .25s; 
+    border-radius: 0px !important;
+    box-shadow: 0 0rem 1rem rgba(0, 0, 0, 0.808)!important;
+    opacity: 1;
+	transform: scale(1);
+
+}
+
+
+textarea {
+    height: 150px;
+    width: 300px;
+    border-radius: 5px;
+    border-style: solid;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    border: inset black;
+    background: linear-gradient(21deg, #92c3fc, #ffffff);
+    opacity: 1;
+	transform: scale(1); 
+    box-shadow: 3px 3px rgb(151, 190, 240);
+
+}
+
+button{
+border: 2px solid rgb(159, 201, 255) !important;
+  padding: 10px !important;
+  border-radius: 25px !important;
+  font-size: large !important;
+
+}
+input{
+    border: inset black;
+    transition: ease-out;
+    background-color: white;
+    background: linear-gradient(21deg, #92c3fc, #ffffff);
+    opacity: 1;
+	transform: scale(1);
+
+}
+.enviarR{
+    border: 2px solid rgb(151, 190, 240) !important;
+    padding: 10px !important;
+    border-radius: 25px !important;
+    font-size: large !important;
+    margin-left: 40%;
+
+}
